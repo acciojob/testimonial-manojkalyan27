@@ -6,12 +6,12 @@
   text-align: right;
   font-style: italic;
 }
-section {
+#section1, #section2{
   border: 2px solid #ccc;
   padding: 5px;
   background-color: white;
 }
 
-section>p{
+div>p{
 	background-color: white;
 }
