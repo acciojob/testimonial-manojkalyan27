@@ -8,10 +8,10 @@
 }
 section {
   border: 2px solid #ccc;
-  padding: 20px;
+  padding: 5px;
   background-color: white;
 }
 
-section>div{
-	background-color: transparent;
+section>p{
+	background-color: white;
 }
