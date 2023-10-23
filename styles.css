@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+* {
+  background-color: #f5f5f5;
+}
+.author {
+  text-align: right;
+  font-style: italic;
+}
+section {
+  border: 2px solid #ccc;
+  padding: 20px;
+  background-color: white;
+}
+
+section>div{
+	background-color: transparent;
+}
